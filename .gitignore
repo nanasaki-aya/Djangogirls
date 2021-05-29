@@ -1,0 +1,10 @@
+#ignore = githubに上げたくないファイルを指定
+#pvcはpyファイル
+*.pvc
+*~
+/.vscode
+__pycache__
+myvenv
+ad.sqlite3
+/static
+.DS_Store
